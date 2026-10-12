@@ -1,16 +1,34 @@
-## Hi there 👋
-
-<!--
-**kjsingh03/kjsingh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+                                                                   |  Karanjot Singh
+                         .-=+**++=-*                               |  ══════════════════════════════════════
+                       :*%@@@@@@@@@@@*.                            |  Specialist Programmer @ Infosys
+                      *@@@@@@@@@@@@@@@@-                           |  AI × Backend × Blockchain
+                    .%@@@@@@@@@@@@@@@@@@-                          |
+                    %@@@@@@@@@@@@@@@@@@@@:                         |  ┌─ TECH STACK
+                   +@@@@@@@@@%#%@@@@@@@@@%                         |  │ Go · TypeScript · Python · C++
+                   %@@@@@@%-....:+@@@@@@@@.                        |  │ React · Next.js · Node.js · Solidity
+                   @@@@@@%+*=:.=###@@@@@@@+                        |  │ PostgreSQL · MongoDB · Redis · RDS
+                   @@@@@%++*##***+++@@@@@@+                        |  │ Docker · gRPC · RabbitMQ · Kafka
+                   #@@@@+*%#+-.++**==@@@@@:                        |  └───────────────────────────────────────────
+                   .@@@*-:--=:::=---:=@@@%                         |
+                    -@@=:---+%#%=:-::-@@@:                         |  ┌─ CURRENTLY EXPLORING
+                     =@*==+#%#+**##==+@%.                          |  │ Agentic AI & multi-agent systems
+                      :##+*+==++--==+*-                            |  │ Go microservices & distributed systems
+                        -#==-===-:-+*.                             |  │ System design & AI infrastructure
+                         =##*******+:                              |  └───────────────────────────────────────────
+                      :*@-=*#%%%#+==-                              |
+                     +@@@%=-+*#*+---@@#:                           |  ┌─ BUILDING
+                 :-=+@@@@@@*++++=--+@@@@%-                         |  │ Neurolith · AI agent infrastructure
+           .:-=+*****%@@@@@@@@#++#@@@@@@@@@*                       |  │ SaaS · AI systems · Developer tools
+         :+**********%@@@@@@@@@@%%%%@@@@@@@@%=                     |  └───────────────────────────────────────────
+       -+*****#******#@@@@@@@%##**##%@@@@@@@@@**=                  |
+      +***#**###*****#@@@@@@@@#***#*#@@@@@@@@@%***:                |  ┌─ EXPERIENCE
+     -**###%#####*****%@@@@@@@%##**##%@@@@@@@@@#*#*                |  │ Infosys · IIT KGP · Singapore · Techentia
+     +*###%#%%%##*****#@@@@@@@@%**##*#@@@@@@@@%####:               |  │ Full-stack · Blockchain · Web3
+    :#*###%%%@@%%##****%@@@@@@@@######@@@@@@@@@#%##+               |  │ 3× Hackathon Winner
+    +#####%@@@@@@%%###*#@@@@@@@@%#####@@@@@@@@@@%##*               |  └───────────────────────────────────────────
+    *###%##%@@@@%%%#####@@@@@@@@@####%@@@@@@@@@@@###-              | 
+   -##%##%%%@@@@%%#%%%##%@@@@@@@@@%@%%@@@@@@@@@@%##%-              |  X : @karanbuidls
+                                                                   |
+                                                                   |  Developer ho. Explore Karo :)
+```
